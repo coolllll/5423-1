@@ -1,0 +1,6 @@
+diff a/egd.txt.rej b/egd.txt.rej	(rejected hunks)
+@@ -0,3 +0,4 @@
+ diff a/egd.txt b/egd.txt	(rejected hunks)
+ @@ -0,0 +1 @@
+ +geryergfrf
++\ No newline at end of file
